@@ -10,9 +10,6 @@
   <a href="mailto:kartiksuchak05@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-say%20hi!-red?logo=gmail&logoColor=white">
   </a>
-<!--   <a href="https://leetcode.com/u/kartik46/">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white">
-  </a> -->
 </p>
 
  
