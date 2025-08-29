@@ -8,7 +8,8 @@
 </p>
 
 <p align="center">
-  📧 [Email](mailto:kartiksuchak05@gmail.com) | 👔 [LinkedIn](https://linkedin.com/in/kartiksuchak)
+  📧 <a href="mailto:kartiksuchak05@gmail.com">kartiksuchak05@gmail.com</a> | 👔 <a href="https://linkedin.com/in/kartiksuchak">https://linkedin.com/in/kartiksuchak</a>
 </p>
+
 
  
