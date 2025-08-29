@@ -2,7 +2,9 @@
 <p align="center">
   <em>Developer • Learner • Builder</em>
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KartikSuchak/KartikSuchak/main/dino_banner.jpg" alt="Dino" width="100%" />
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/kartik-suchak-b856b92a1/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?logo=linkedin&logoColor=white">
