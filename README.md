@@ -11,7 +11,6 @@
   📧 <a href="mailto:kartiksuchak05@gmail.com">kartiksuchak05@gmail.com</a> | 👔 <a href="https://linkedin.com/in/kartiksuchak">https://linkedin.com/in/kartiksuchak</a>
 </p>
 
----
 
 ## 🚀 About Me  
 - 👨‍💻 I’m an undergrad passionate about **web development**  
