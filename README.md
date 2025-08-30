@@ -7,10 +7,6 @@
   <em>Developer • Learner • Builder</em>
 </p>
 
-<p align="center">
-  📧 <a href="mailto:kartiksuchak05@gmail.com">kartiksuchak05@gmail.com</a> | 👔 <a href="https://linkedin.com/in/kartiksuchak">https://linkedin.com/in/kartiksuchak</a>
-</p>
-
 ---
 
 ## 🚀 About Me  
@@ -19,5 +15,57 @@
 - 🛠️ I enjoy building **projects that solve real-world problems** (not just toy apps)   
 - 🎯 Goal for 2025: Build a couple of **impactful projects** and land meaningful internships   
 
+---
+## 📊 GitHub Stats:
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikSuchak&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
 
- 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikSuchak&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KartikSuchak&theme=github_dark" alt="Profile Details"/>
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikSuchak&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,python,js" />
+</p>
+
+**Frameworks & Libraries:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</p>
+
+**Dev Tools & Platforms:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,vscode,idea,androidstudio" />
+</p>
+
+**Design Tools:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+---
+
+## 📬 Contact Me  
+
+- <a href="mailto:kartiksuchak05@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="25" /> kartiksuchak05@gmail.com
+  </a>  
+
+- <a href="https://linkedin.com/in/kartiksuchak" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="25" /> linkedin.com/in/kartiksuchak
+  </a>  
