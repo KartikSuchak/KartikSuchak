@@ -63,9 +63,12 @@
 ## 📬 Contact Me  
 
 - <a href="mailto:kartiksuchak05@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="25" /> kartiksuchak05@gmail.com
+    <img src="https://skillicons.dev/icons?i=gmail" width="22" style="vertical-align:middle; margin-right:6px;" />
+    kartiksuchak05@gmail.com
   </a>  
 
 - <a href="https://linkedin.com/in/kartiksuchak" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="25" /> linkedin.com/in/kartiksuchak
+    <img src="https://skillicons.dev/icons?i=linkedin" width="22" style="vertical-align:middle; margin-right:6px;" />
+    linkedin.com/in/kartiksuchak
   </a>  
+
