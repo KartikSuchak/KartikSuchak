@@ -18,7 +18,7 @@
 ---
 ## 📊 GitHub Stats:
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KartikSuchak&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikSuchak&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p>
