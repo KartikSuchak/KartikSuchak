@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Mee
+## 🚀 About Me
 - 👨‍💻 I’m an undergrad passionate about **web development**  
 - 🌱 Currently exploring **React, Node.js, and DSA** to sharpen my problem-solving  
 - 🛠️ I enjoy building **projects that solve real-world problems** (not just toy apps)   
